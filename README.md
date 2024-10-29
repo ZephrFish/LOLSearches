@@ -1,5 +1,5 @@
 # LOLSearches
-This repository complements my [Adversarial Sysadmin](blog.zsec.uk/lolsysadmin/) blog post and contains additional search queries and operators that will help you find sensitive data in SharePoint and Windows Explorer.
+This repository complements my [Adversarial Sysadmin](https://blog.zsec.uk/lolsysadmin/) blog post and contains additional search queries and operators that will help you find sensitive data in SharePoint and Windows Explorer.
 
 ## SharePoint KQL Queries
 
